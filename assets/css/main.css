@@ -245,6 +245,23 @@ h2.major span {
   padding: 0 1.25em 0 1.25em;
 }
 
+/* div.major {
+  position: relative;
+  border-top: solid 5px #e7eae8;
+  font-size: 1.65em;
+  text-align: center;
+  margin: 0 0 3em 0;
+  top: 0.775em;
+}
+
+div.major img {
+  background: inherit;
+  position: relative;
+  display: inline-block;
+  top: -0.775em;
+  padding: 0 1.25em 0 1.25em;
+} */
+
 h3.underline {
   border-bottom: solid 2px #6b7770;
 }
@@ -2724,6 +2741,7 @@ body {
 .logosize {
   height: auto;
   width: 25em;
+  max-width: 65vw;
   padding-top: 1em;
   padding-bottom: 1em;
 }
@@ -2761,6 +2779,9 @@ body {
   height: auto;
 }
 
+.marginbottom {
+  margin-bottom: 2px;
+}
 /* Copyright */
 
 #copyright {
