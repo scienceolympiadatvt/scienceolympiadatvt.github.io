@@ -2750,6 +2750,10 @@ body {
   margin-bottom: 1em;
 }
 
+.mediummargin {
+  margin-bottom: 3em;
+}
+
 .nobullets {
   list-style: none;
   list-style-type: none;
