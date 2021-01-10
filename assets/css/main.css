@@ -2840,7 +2840,7 @@ body {
   /* Special */
 
   ul.special li a:before {
-    font-size: 60px;
+    font-size: 5em;
   }
 
   /* Box */
@@ -3234,7 +3234,7 @@ body {
   }
 
   ul.special li a:before {
-    font-size: 28px;
+    font-size: 3em;
   }
 
   /* Box */
